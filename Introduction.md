@@ -10,7 +10,7 @@ open in cities like Ottawa, Brampton and Hamilton.They figured out that they wou
 
 They are having trouble figuring out which place to chose within Toronto to open their new restaurant.
 
-We have to help them figure out which place to chose where there business will be good, they have less competition and nice people live around. They want to know about 2-3 such places so that they can decide for themselves which one is the best.
+We have to help them figure out which place to chose where there business will be good, they have less competition and nice people live around. They want to know about few such places so that they can decide for themselves which one is the best.
 
 ```python
 
